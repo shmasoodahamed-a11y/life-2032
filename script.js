@@ -2,13 +2,13 @@
 // 1. FIREBASE CONFIG & GLOBAL VARS
 // ==========================================
 const firebaseConfig = {
-  apiKey: "AIzaSyC3tVuV5xzYUlNyqi0Qsz5qo3CdaOdkdZk",
-  authDomain: "pentagon-53ed4.firebaseapp.com",
-  projectId: "pentagon-53ed4",
-  storageBucket: "pentagon-53ed4.firebasestorage.app",
-  messagingSenderId: "113137921267",
-  appId: "1:113137921267:web:08d52af4a16928f1051b86",
-  measurementId: "G-MC2E54D49F"
+  apiKey: "AIzaSyCC2cE0dHyyGFLqqzVe27z8sNCYto5cHFk",
+  authDomain: "personal-hub-name.firebaseapp.com",
+  projectId: "personal-hub-name",
+  storageBucket: "personal-hub-name.firebasestorage.app",
+  messagingSenderId: "706597416203",
+  appId: "1:706597416203:web:3d79bccfae03987666860e",
+  measurementId: "G-B6N7YPEDR9"
 };
 let auth, db, currentUser = null;
 let isOffline = true; 
